@@ -1,0 +1,15 @@
+{
+    "components": [
+        {
+            "cachedName": "DiscosmpPack",
+            "cachedVersionId": "1.0.0",
+            "cachedVolatile": true,
+            "dependencyOnly": false,
+            "important": true,
+            "cachedRequires": [],
+            "uid": "com.discosmp.pack",
+            "version": "1.0.0"
+        }
+    ],
+    "formatVersion": 1
+}

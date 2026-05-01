@@ -1,0 +1,1 @@
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/saz4novv/discosmp-modpack/main/update.json"
